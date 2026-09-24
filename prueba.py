@@ -1,3 +1,5 @@
+# Simulador de Torneo de Fútbol en Python
+
 import random
 import time
 
